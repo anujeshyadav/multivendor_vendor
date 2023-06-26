@@ -84,8 +84,8 @@ class Login extends React.Component {
                         <img
                           src={logo}
                           alt="loginImg"
-                          width="300"
-                          style={{ width: "300" }}
+                          width="80%"
+                          className="logoimg"
                         />
                         <h4 className="mb-0">Login</h4>
                       </CardTitle>

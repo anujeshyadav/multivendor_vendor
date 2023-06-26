@@ -346,7 +346,7 @@ const navigationConfig = [
         type: "item",
         icon: <FaCircle size={8} />,
         permissions: ["admin", "editor"],
-        navLink: "/app/freshlist/hub/addproduct",
+        navLink: "/ecommerce/shop",
       },
     ],
   },
